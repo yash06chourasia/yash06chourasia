@@ -4,11 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash06chourasia&label=Profile%20views&color=0e75b6&style=flat" alt="yash06chourasia" /> </p>
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/yash06chourasia?tab=repositories](https://github.com/yash06chourasia?tab=repositories)
+- 👨‍💻 All of my projects are available at [here](https://github.com/yash06chourasia?tab=repositories)
 
 - 📫 How to reach me **y0602c@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1EaNbj0zNKksHYRnKA1vjb7LwVaBdMa68/view?usp=drivesdk](https://drive.google.com/file/d/1EaNbj0zNKksHYRnKA1vjb7LwVaBdMa68/view?usp=drivesdk)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1EaNbj0zNKksHYRnKA1vjb7LwVaBdMa68/view?usp=drivesdk)
 
 - ⚡ Fun fact **People think I study a lot.....**
 
