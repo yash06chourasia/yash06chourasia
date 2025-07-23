@@ -29,4 +29,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yash06chourasia&show_icons=true&locale=en" alt="yash06chourasia" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yash06chourasia&" alt="yash06chourasia" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yash06chourasia&" alt="yashStreak" /></p>
