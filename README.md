@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **y0602c@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1EaNbj0zNKksHYRnKA1vjb7LwVaBdMa68/view?usp=drivesdk)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1p5Sb5ShCKq1WT5_5vndgSKabhbKCC92h/view?usp=drivesdk )
 
 - ⚡ Fun fact **People think I study a lot.....**
 
